@@ -1,0 +1,20 @@
+#t1{
+    background-color: antiquewhite;
+    width: 100px;
+}
+#mew{
+    display: flex;
+    flex-wrap: wrap;
+}
+.tasks{
+    width:250 px;
+    height:250 px;
+    background-color: antiquewhite;
+    margin: 10px 10px 10px 10px;
+}
+#add{
+    height: 100 px;
+    width:100%;
+    background-color: beige;
+
+}
